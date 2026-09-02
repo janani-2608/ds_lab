@@ -546,3 +546,74 @@ Stack Operations Menu:
 Enter your choice: 3
 Stack elements: 4 3 2 2 1 
 
+
+===========================EX 4B===========================
+                                                                                                           
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ gcc ds4b.c
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ ./a.out   
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 1
+Element enqueued: 1
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 2
+Element enqueued: 2
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 3
+Element enqueued: 3
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 4
+Element enqueued: 4
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 5
+Element enqueued: 5
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3 
+Queue elements: 1 2 3 4 5 
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 4
+                                                                                                                   
+
+
