@@ -250,3 +250,86 @@ Enter your choice: 9
                                                                                                                    
 ┌──(kali㉿kali)-[~/Desktop/DS]
 └─$ 
+
+======================EX 3A=============┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ gcc ds3a.c
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ ./a.out   
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 2
+Element pushed: 2
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 1
+Element pushed: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 2
+Popped element: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 1
+Element pushed: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 1
+Element pushed: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 3
+Element pushed: 3
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 14
+Invalid choice! Please enter a valid option.
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements: 3 1 1 2 
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 4
+
