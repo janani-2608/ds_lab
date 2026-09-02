@@ -614,6 +614,67 @@ Queue Operations Menu:
 3. Display
 4. Exit
 Enter your choice: 4
+
+
+=================================EX 5========================
+
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ gcc ds5.c 
                                                                                                                    
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ ./a.out  
+
+~~~~BST MENU~~~~
+1.Create a BST
+2.Search
+3.BST Traversals: 
+4.Exit
+Enter your choice: 1
+
+Enter the number of elements: 1
+
+Enter The value: 1
+
+~~~~BST MENU~~~~
+1.Create a BST
+2.Search
+3.BST Traversals: 
+4.Exit
+Enter your choice: 1
+
+Enter the number of elements: 2
+
+Enter The value: 3
+
+Enter The value: 1
+
+~~~~BST MENU~~~~
+1.Create a BST
+2.Search
+3.BST Traversals: 
+4.Exit
+Enter your choice: 2
+
+The Preorder display : 1 3 
+The Inorder display : 1 3 
+The Postorder display : 3 1 
+~~~~BST MENU~~~~
+1.Create a BST
+2.Search
+3.BST Traversals: 
+4.Exit
+Enter your choice: 3
+
+Enter Element to be searched: 1
+
+Key element is present in BST
+~~~~BST MENU~~~~
+1.Create a BST
+2.Search
+3.BST Traversals: 
+4.Exit
+Enter your choice: 
+
+
 
 
