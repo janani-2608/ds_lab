@@ -1,3 +1,64 @@
+=======================EX 1A================
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 1
+Enter number of elements: 2
+Enter elements:
+1
+1
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 2
+Enter element to insert: 3
+Enter position (0 to 2): 2
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 1
+Enter number of elements: 3
+Enter elements:
+1
+1
+1
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 5
+Array elements: 1 1 1 
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 
+
+
+
 =================EX 2=============================
                                                                                                                    
 ┌──(kali㉿kali)-[~/Desktop/DS]
