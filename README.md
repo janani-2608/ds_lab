@@ -333,3 +333,146 @@ Stack Operations Menu:
 4. Exit
 Enter your choice: 4
 
+=========================EX 3B ======================
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ gcc ds3a.c
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ ./a.out   
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 2
+Element pushed: 2
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 1
+Element pushed: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 2
+Popped element: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 1
+Element pushed: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 1
+Element pushed: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 3
+Element pushed: 3
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 14
+Invalid choice! Please enter a valid option.
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements: 3 1 1 2 
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 4
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ gcc ds3b.c
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ ./a.out   
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 1
+Element enqueued: 1
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 2
+Element enqueued: 2
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 2
+Element enqueued: 2
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 2
+Element enqueued: 2
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 2
+Element enqueued: 2
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 1 2 2 2 2 
+
