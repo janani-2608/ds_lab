@@ -1,5 +1,9 @@
 =======================EX 1A================
-
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ gcc ds1a.c
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ ./a.out   
 Array Operations Menu:
 1. Create Array
 2. Insert Element
@@ -57,6 +61,79 @@ Array Operations Menu:
 6. Exit
 Enter your choice: 
 
+
+=========================EX 1B==================
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ gcc ds1b.c
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ ./a.out   
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+1
+1
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+2
+2
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+1
+4
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+3
+2
+2
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+7
+4 -> 2 -> 1 -> 2 -> NULL
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+8
 
 
 =================EX 2=============================
