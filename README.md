@@ -675,6 +675,495 @@ Key element is present in BST
 4.Exit
 Enter your choice: 
 
+=====================EX 6============
+
+Preorder traversal of the constructed AVL tree is 5 0 -1 1 2 9 6 10 11 Preorder traversal after deletion of 10 5 0 -1 1 2 9 6 11
+
+============EX 7(a)=============
+
+Graph:
+
+Adjacency list of vertex 0 2 -> 1 ->
+
+Adjacency list of vertex 1 3 -> 2 -> 0 ->
+
+Adjacency list of vertex 2 3 -> 1 -> 0 ->
+
+Adjacency list of vertex 3 2 -> 1 ->
+
+Adjacency list of vertex 4
+
+Adjacency list of vertex 5
+
+Adjacency list of vertex 6
+
+Adjacency list of vertex 7
+
+Adjacency list of vertex 8
+
+Adjacency list of vertex 9
+
+Adjacency list of vertex 10
+
+Adjacency list of vertex 11
+
+Adjacency list of vertex 12
+
+Adjacency list of vertex 13
+
+Adjacency list of vertex 14
+
+Adjacency list of vertex 15
+
+Adjacency list of vertex 16
+
+Adjacency list of vertex 17
+
+Adjacency list of vertex 18
+
+Adjacency list of vertex 19
+
+Adjacency list of vertex 20
+
+Adjacency list of vertex 21
+
+Adjacency list of vertex 22
+
+Adjacency list of vertex 23
+
+Adjacency list of vertex 24
+
+Adjacency list of vertex 25
+
+Adjacency list of vertex 26
+
+Adjacency list of vertex 27
+
+Adjacency list of vertex 28
+
+Adjacency list of vertex 29
+
+Adjacency list of vertex 30
+
+Adjacency list of vertex 31
+
+Adjacency list of vertex 32
+
+Adjacency list of vertex 33
+
+Adjacency list of vertex 34
+
+Adjacency list of vertex 35
+
+Adjacency list of vertex 36
+
+Adjacency list of vertex 37
+
+Adjacency list of vertex 38
+
+Adjacency list of vertex 39
+
+Adjacency list of vertex 40
+
+Adjacency list of vertex 41
+
+Adjacency list of vertex 42
+
+Adjacency list of vertex 43
+
+Adjacency list of vertex 44
+
+Adjacency list of vertex 45
+
+Adjacency list of vertex 46
+
+Adjacency list of vertex 47
+
+Adjacency list of vertex 48
+
+Adjacency list of vertex 49
+
+Adjacency list of vertex 50
+
+Adjacency list of vertex 51
+
+Adjacency list of vertex 52
+
+Adjacency list of vertex 53
+
+Adjacency list of vertex 54
+
+Adjacency list of vertex 55
+
+Adjacency list of vertex 56
+
+Adjacency list of vertex 57
+
+Adjacency list of vertex 58
+
+Adjacency list of vertex 59
+
+Adjacency list of vertex 60
+
+Adjacency list of vertex 61
+
+Adjacency list of vertex 62
+
+Adjacency list of vertex 63
+
+Adjacency list of vertex 64
+
+Adjacency list of vertex 65
+
+Adjacency list of vertex 66
+
+Adjacency list of vertex 67
+
+Adjacency list of vertex 68
+
+Adjacency list of vertex 69
+
+Adjacency list of vertex 70
+
+Adjacency list of vertex 71
+
+Adjacency list of vertex 72
+
+Adjacency list of vertex 73
+
+Adjacency list of vertex 74
+
+Adjacency list of vertex 75
+
+Adjacency list of vertex 76
+
+Adjacency list of vertex 77
+
+Adjacency list of vertex 78
+
+Adjacency list of vertex 79
+
+Adjacency list of vertex 80
+
+Adjacency list of vertex 81
+
+Adjacency list of vertex 82
+
+Adjacency list of vertex 83
+
+Adjacency list of vertex 84
+
+Adjacency list of vertex 85
+
+Adjacency list of vertex 86
+
+Adjacency list of vertex 87
+
+Adjacency list of vertex 88
+
+Adjacency list of vertex 89
+
+Adjacency list of vertex 90
+
+Adjacency list of vertex 91
+
+Adjacency list of vertex 92
+
+Adjacency list of vertex 93
+
+Adjacency list of vertex 94
+
+Adjacency list of vertex 95
+
+Adjacency list of vertex 96
+
+Adjacency list of vertex 97
+
+Adjacency list of vertex 98
+
+Adjacency list of vertex 99
+
+BFS Traversal starting from vertex 0: Visited 0 Visited 2 Visited 1 Visited 3
+
+============EX 7 (b)=====
+
+Graph:
+
+Adjacency list of vertex 0 2 -> 1 ->
+
+Adjacency list of vertex 1 3 -> 2 ->
+
+Adjacency list of vertex 2 3 ->
+
+Adjacency list of vertex 3
+
+Adjacency list of vertex 4
+
+Adjacency list of vertex 5
+
+Adjacency list of vertex 6
+
+Adjacency list of vertex 7
+
+Adjacency list of vertex 8
+
+Adjacency list of vertex 9
+
+Adjacency list of vertex 10
+
+Adjacency list of vertex 11
+
+Adjacency list of vertex 12
+
+Adjacency list of vertex 13
+
+Adjacency list of vertex 14
+
+Adjacency list of vertex 15
+
+Adjacency list of vertex 16
+
+Adjacency list of vertex 17
+
+Adjacency list of vertex 18
+
+Adjacency list of vertex 19
+
+Adjacency list of vertex 20
+
+Adjacency list of vertex 21
+
+Adjacency list of vertex 22
+
+Adjacency list of vertex 23
+
+Adjacency list of vertex 24
+
+Adjacency list of vertex 25
+
+Adjacency list of vertex 26
+
+Adjacency list of vertex 27
+
+Adjacency list of vertex 28
+
+Adjacency list of vertex 29
+
+Adjacency list of vertex 30
+
+Adjacency list of vertex 31
+
+Adjacency list of vertex 32
+
+Adjacency list of vertex 33
+
+Adjacency list of vertex 34
+
+Adjacency list of vertex 35
+
+Adjacency list of vertex 36
+
+Adjacency list of vertex 37
+
+Adjacency list of vertex 38
+
+Adjacency list of vertex 39
+
+Adjacency list of vertex 40
+
+Adjacency list of vertex 41
+
+Adjacency list of vertex 42
+
+Adjacency list of vertex 43
+
+Adjacency list of vertex 44
+
+Adjacency list of vertex 45
+
+Adjacency list of vertex 46
+
+Adjacency list of vertex 47
+
+Adjacency list of vertex 48
+
+Adjacency list of vertex 49
+
+Adjacency list of vertex 50
+
+Adjacency list of vertex 51
+
+Adjacency list of vertex 52
+
+Adjacency list of vertex 53
+
+Adjacency list of vertex 54
+
+Adjacency list of vertex 55
+
+Adjacency list of vertex 56
+
+Adjacency list of vertex 57
+
+Adjacency list of vertex 58
+
+Adjacency list of vertex 59
+
+Adjacency list of vertex 60
+
+Adjacency list of vertex 61
+
+Adjacency list of vertex 62
+
+Adjacency list of vertex 63
+
+Adjacency list of vertex 64
+
+Adjacency list of vertex 65
+
+Adjacency list of vertex 66
+
+Adjacency list of vertex 67
+
+Adjacency list of vertex 68
+
+Adjacency list of vertex 69
+
+Adjacency list of vertex 70
+
+Adjacency list of vertex 71
+
+Adjacency list of vertex 72
+
+Adjacency list of vertex 73
+
+Adjacency list of vertex 74
+
+Adjacency list of vertex 75
+
+Adjacency list of vertex 76
+
+Adjacency list of vertex 77
+
+Adjacency list of vertex 78
+
+Adjacency list of vertex 79
+
+Adjacency list of vertex 80
+
+Adjacency list of vertex 81
+
+Adjacency list of vertex 82
+
+Adjacency list of vertex 83
+
+Adjacency list of vertex 84
+
+Adjacency list of vertex 85
+
+Adjacency list of vertex 86
+
+Adjacency list of vertex 87
+
+Adjacency list of vertex 88
+
+Adjacency list of vertex 89
+
+Adjacency list of vertex 90
+
+Adjacency list of vertex 91
+
+Adjacency list of vertex 92
+
+Adjacency list of vertex 93
+
+Adjacency list of vertex 94
+
+Adjacency list of vertex 95
+
+Adjacency list of vertex 96
+
+Adjacency list of vertex 97
+
+Adjacency list of vertex 98
+
+Adjacency list of vertex 99
+
+DFS Traversal starting from vertex 0: Visited 0 Visited 2 Visited 3 Visited 1
+
+==========EX 8==================
+
+Enter the number of vertices: 5 Enter the cost adjacency matrix (enter 999 for no direct path): 0 10 5 999 999 999 0 2 1 999 999 3 0 9 2 4 999 999 0 7 999 999 999 6 0 Enter the source vertex (starting from 0): 0
+
+Shortest Paths from Source Vertex 0: Path to vertex 1: Cost = 8 | Path = 1 <- 2 <- 0 Path to vertex 2: Cost = 5 | Path = 2 <- 0 Path to vertex 3: Cost = 9 | Path = 3 <- 1 <- 2 <- 0 Path to vertex 4: Cost = 7 | Path = 4 <- 2 <- 0
+
+==========EX 9============
+
+Enter the size of the queue: 5
+
+Menu
+
+Insert
+Delete
+Display
+Exit Enter your choice: 1
+Enter the element to insert: 12
+
+Menu
+
+Insert
+Delete
+Display
+Exit Enter your choice: 1
+Enter the element to insert: 25
+
+Menu
+
+Insert
+Delete
+Display
+Exit Enter your choice: 1
+Enter the element to insert: 8
+
+Menu
+
+Insert
+Delete
+Display
+Exit Enter your choice: 3
+Elements in the heap: 8 25 12
+
+Menu
+
+Insert
+Delete
+Display
+Exit Enter your choice: 2
+The deleted element is 8
+
+Menu
+
+Insert
+Delete
+Display
+Exit Enter your choice: 4
+Exiting...
+
+=============EX 10(a)============
+
+Enter the element to search: 56 Element 56 found at position 5.
+
+Enter the element to search: 100 Element 100 not found in the array.
+
+=============EX 10(b)============
+
+Enter the number of elements: 5 Enter 5 numbers in ascending order: a[0] = 2 a[1] = 3 a[2] = 4 a[3] = 5 a[4] = 6 Enter the search element: 6 Element 6 found at index 4.
+
+=============EX 10(c)============
+
+Enter the five elements to sort: 5 4 3 2 1 Elements after sorting: 1 2 3 4 5
+
+=============EX 10(d)============ Original array: 12 7 11 13 5 6 Sorted array: 5 6 7 11 12 13
 
 
 
