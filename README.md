@@ -1165,6 +1165,8 @@ Enter the five elements to sort: 5 4 3 2 1 Elements after sorting: 1 2 3 4 5
 
 =============EX 10(d)============ Original array: 12 7 11 13 5 6 Sorted array: 5 6 7 11 12 13
 
+==============CBS1==========
+
 ┌──(kali㉿kali)-[~/Desktop/DS]
 └─$ gcc ex1.c
                                                                                                                                                                                                                                            
