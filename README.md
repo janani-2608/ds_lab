@@ -1165,5 +1165,102 @@ Enter the five elements to sort: 5 4 3 2 1 Elements after sorting: 1 2 3 4 5
 
 =============EX 10(d)============ Original array: 12 7 11 13 5 6 Sorted array: 5 6 7 11 12 13
 
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ gcc ex1.c
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ ./a.out  
+postfix evaluation: -4                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ 
+=================content beyond 2:======================
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ gcc ex3.c
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/Desktop/DS]
+└─$ ./a.out  
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the piece of data: 10
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the piece of data: 20
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the piece of data: 30
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 3
+
+The data are:
+10
+20
+30
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 2
+
+The consumed data is: 10
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 11
+
+Enter valid choice
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 2
+
+The consumed data is: 20
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 33
+
+Enter valid choice
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 3
+
+The data are:
+30
+
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 4
 
 
